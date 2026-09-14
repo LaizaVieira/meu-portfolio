@@ -17,3 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou desenvolvendo me
 ## Objetivo
 
 Este projeto foi criado como atividade prática da disciplina de Design Profissional, com o objetivo de aplicar os conhecimentos adquiridos na trilha GitHub Foundations.
+
+## Projetos
+
+Este repositório faz parte da minha prática de Git e GitHub e será utilizado para registrar meus projetos e aprendizados.
