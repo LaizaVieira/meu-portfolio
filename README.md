@@ -12,7 +12,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou desenvolvendo me
 - Excel
 - Power BI
 - Lógica de programação
-- Git e GitHub
 
 ## Objetivo
 
